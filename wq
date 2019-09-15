@@ -1,0 +1,15 @@
+syntax enable
+set background=dark
+
+set tabstop=4
+set softtabstop=4
+set expandtab
+set autoindent
+set wrap
+set spelllang=en_us
+
+set incsearch
+
+set number
+set cursorline
+set bs=2
